@@ -2,3 +2,4 @@
 Responsive Wordpress Theme for blogs and tutorials
 
 INFO: http://hernandemczuk.com/proyecto-responsive-theme-para-wordpress/
+DEMO: http://wordpressthemehernandemczuk.azurewebsites.net/
